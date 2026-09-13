@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Tanish Solanki
 
+🎓 ICT Student | 💻 Software & ML Enthusiast | 🚀 Problem Solver
+
+I’m passionate about **Software Development, Machine Learning, Data Structures & Algorithms, and Competitive Programming**. I enjoy building projects, solving coding problems, and continuously learning new technologies.
+
+- 🔭 **I’m currently working on:** Software Development & Machine Learning Projects
+- 🌱 **I’m currently learning:** Advanced DSA, Machine Learning & Backend Development
+- 💬 **Ask me about:** C++, Python, SQL, DSA, DBMS and Software Development
+- 📫 **How to reach me:** solankitanish77@gmail.com
+- ⚡ **Fun fact:** I enjoy turning challenging problems into simple solutions. 😄
+
+📧 **Email Me:** **solankitanish77@gmail.com** for collaboration, projects, or anything tech-related.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-solanki-463305377) 
 
