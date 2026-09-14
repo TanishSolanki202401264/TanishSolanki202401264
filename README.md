@@ -2,7 +2,7 @@
 
 🎓 ICT Student | 💻 Software & ML Enthusiast | 🚀 Problem Solver
 
-I’m passionate about **Software Development, Machine Learning, Data Structures & Algorithms, and Competitive Programming**. I enjoy building projects, solving coding problems, and continuously learning new technologies.
+I’m passionate about **Software Development, Machine Learning, Data Structures & Algorithms,Computer System Programming,Computer Networking and Automation and Competitive Programming**. I enjoy building projects, solving coding problems, and continuously learning new technologies.
 
 - 🔭 **I’m currently working on:** Software Development & Machine Learning Projects
 - 🌱 **I’m currently learning:** Advanced DSA, Machine Learning & Backend Development
